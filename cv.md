@@ -23,8 +23,8 @@ Achievements and responsibilities:
    function isIsogram(str){
     const lowerCaseString = str.toLowerCase();
     var result = lowerCaseString.split('').every((j,i)=>lowerCaseString.indexOf(j)===i) 
-  return result;
-  }
+    return result;
+   }
    ```
 
 Education _Donetsk National University (Physics Faculty) Radiophysics and electronics specialist_ (September 1999 – June 2004)
