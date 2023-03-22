@@ -7,7 +7,7 @@
 
 System administrator with more than 10 years of work experience in different areas of IT sphere. Work experience both in big companies and participation in start-ups, correspondingly, skills of cooperation with small teams and with different departments. Understanding of business development strategy and time management. Problem solving skills, ability to plan work and make decisions in difficult situations and tight deadlines.
 
-Achievements and responsibilities:
+_Achievements and responsibilities:_
 
 - Implementation of GPS monitoring platform using Open Source project.
 - Building several Linux servers based on Cloud Services for testing and specific hardware for immutable mode.
